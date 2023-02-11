@@ -2,6 +2,10 @@ class pw
 {
 public void ml()
 {
-	///code
+	///code1
+}
+public void ml()
+{
+	///code2
 }
 }
